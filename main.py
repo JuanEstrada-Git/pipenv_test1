@@ -1,4 +1,4 @@
-import requests
+import requestss
 
 response = requests.get("http://httpbin.org/ip")
 
